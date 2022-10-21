@@ -17,8 +17,8 @@ Here's a list of all arguments supported by the current script:
 - EXTRA   => Switch to Extra-Hard Tires
 
 ## Fuel Management
-A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed when the throttle is pushed.
+A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed when the throttle is pushed. Here's the list of Fuel Modes:
 
-- ECO: 60% Wheel Power, 0.8 consumption
+- ECO: 60% Wheel Power, 0.8x consumption
 - STD: 80% Wheel Power, 1x Consumption
 - MAX: 100% Wheel Power, 2x consumption
