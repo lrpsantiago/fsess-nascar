@@ -1,6 +1,6 @@
 # FSESS-Nascar
 
-v1.0.0 Beta 3
+v1.0.0 Beta 4
 
 ## Arguments
 Here's a list of all arguments supported by the current script:
