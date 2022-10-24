@@ -1,6 +1,6 @@
 # FSESS-Nascar
 
-v1.0.0 Beta 2
+v1.0.0 Beta 3
 
 ## Arguments
 Here's a list of all arguments supported by the current script:
@@ -10,11 +10,7 @@ Here's a list of all arguments supported by the current script:
 - ECO     => Set Eco Fuel Mode
 - STD     => Set Standard Fuel Mode
 - MAX     => Set Max Fuel Mode
-- ULTRA   => Switch to Ultra-Soft Tires
-- SOFT    => Switch to Soft Tires
-- MEDIUM  => Switch to Medium Tires
-- HARD    => Switch to Hard Tires
-- EXTRA   => Switch to Extra-Hard Tires
+- PIT     => Switch to Tyres and Start Refueling
 
 ## Fuel Management
 A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed when the throttle is pushed. Here's the list of Fuel Modes:
