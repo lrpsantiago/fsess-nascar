@@ -18,3 +18,6 @@ A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed 
 - ECO: 60% Wheel Power, 0.8x consumption
 - STD: 80% Wheel Power, 1x Consumption
 - MAX: 100% Wheel Power, 2x consumption
+
+## Drafting
+When you're behind a car you will get 100% Wheel Power and the Top Speed to Unlimed. 
