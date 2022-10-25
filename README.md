@@ -1,6 +1,6 @@
 # FSESS-Nascar
 
-v1.0.0 Beta 4
+v1.0.0 Beta 5
 
 ## Arguments
 Here's a list of all arguments supported by the current script:
@@ -20,4 +20,4 @@ A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed 
 - MAX: 100% Wheel Power, 2x consumption
 
 ## Drafting
-When you're behind a car you will get 100% Wheel Power and the Top Speed to Unlimed. 
+When you're behind a car, above 40m/s, you will get 100% Wheel Power, 100% Suspension Strength and the Top Speed set to unlimited. 
