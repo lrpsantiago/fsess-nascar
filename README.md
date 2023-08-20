@@ -1,6 +1,6 @@
 # FSESS-Nascar
 
-Current Version: v1.0.0
+Current Version: v2.0.0
 
 ## Arguments
 Here's a list of all arguments supported by the current script:
@@ -15,9 +15,9 @@ Here's a list of all arguments supported by the current script:
 ## Fuel Management
 A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed when the throttle is pushed. Here's the list of Fuel Modes:
 
-- ECO: 60% Wheel Power, 0.8x consumption
-- STD: 80% Wheel Power, 1x Consumption
-- MAX: 100% Wheel Power, 2x consumption
+- ECO: 60% Wheel Power, 95m/s Speed Limit, 0.8x consumption
+- STD: 80% Wheel Power, 96m/s Speed Limit, 1x Consumption
+- MAX: 100% Wheel Power, 98m/s Speed Limit, 2x consumption
 
 ## Drafting
-When you're behind another car and above 60m/s, you will get 100% Wheel Power, 100% Suspension Strength and the Top Speed set to unlimited (the default top speed is 95m/s).
+When you're behind another car and above 60m/s, you will get 100% Wheel Power, 100% Suspension Strength and the Top Speed is set to unlimited.
