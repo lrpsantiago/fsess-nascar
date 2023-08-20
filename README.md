@@ -10,7 +10,7 @@ Here's a list of all arguments supported by the current script:
 - ECO     => Set Eco Fuel Mode
 - STD     => Set Standard Fuel Mode
 - MAX     => Set Max Fuel Mode
-- PIT     => Switch to Tyres and Start Refueling
+- PIT     => Switch Tyres and Start Refueling
 
 ## Fuel Management
 A whole fuel tank lasts around 15 minutes (on STD mode), and it's only consumed when the throttle is pushed. Here's the list of Fuel Modes:
